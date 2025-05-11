@@ -57,6 +57,10 @@ You can view and interact with the circuit simulation on Tinkercad: [Wire Loop B
 5. Try to complete the track without touching the wire
 6. Press reset button to start a new game
 
+   ![image](https://github.com/user-attachments/assets/b7d099e2-c0c8-4e86-ad71-f5c0528f064f)
+![image](https://github.com/user-attachments/assets/c0283644-fc09-4c8e-91c4-3a0645858790)
+
+
 ## License
 
 This project is open source and available under the MIT License. 
