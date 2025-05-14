@@ -9,7 +9,7 @@ int currentPlayer = 0, player1Score = 0, player2Score = 0, touchCount = 0; // Li
 unsigned long startTime, lastUpdateTime = 0; // Timestamps tracking gameplay and screen refreshes
 bool gameRunning = false, justReset = false; // Flags keeping tabs on game state
 
-const int maxScore = 100, penaltyPerTouch = 5; // Highest starting score and the cost of each mistake
+const int maxScore = 100, penaltyPerTouch = 2; // Highest starting score and the cost of each mistake
 const unsigned long maxTime = 60000; // 60 seconds // Maximum time allowed for a single run (in ms)
 
 const int Notes[8][12] = { // Lookup table: 8 octaves × 12 semitones of note frequencies
